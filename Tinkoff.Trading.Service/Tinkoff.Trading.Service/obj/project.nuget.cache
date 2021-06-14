@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5v3RGNyfIF5Ci/RPLyRr6r55b8U3Kewk48fUbS7twAEhnSK84adrADCm8pemS5TS62u/qhH+m28y9qDXWoQFBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill Kornakov\\Desktop\\Tinkoff.Trading.Service\\Tinkoff.Trading.Service\\Tinkoff.Trading.Service\\Tinkoff.Trading.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill Kornakov\\.nuget\\packages\\macross.json.extensions\\1.5.0\\macross.json.extensions.1.5.0.nupkg.sha512",
+    "C:\\Users\\Kirill Kornakov\\.nuget\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kirill Kornakov\\.nuget\\packages\\tinkoff.trading.openapi\\1.7.3\\tinkoff.trading.openapi.1.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
